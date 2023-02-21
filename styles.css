@@ -1,0 +1,181 @@
+.crown {
+    width: 150px;
+    margin: 0px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+    font-family: 'VT323';
+    color: white;
+}
+
+img {
+    width: 350px;
+    padding: 35px;
+}
+
+.peach {
+    padding: 25px;
+}
+
+.sans-shop-keeper {
+    width: 308px;
+}
+
+.goose-cave-img {
+    width: 270px;
+    height: 200px;
+}
+
+.lightsaber-goose {
+    width: 175px;
+}
+
+.nuggets {
+    width: 250px;
+}
+
+.omori {
+    width: 175px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+    border: solid white 5px;
+}
+
+.peach-intro {
+    font-size: 30px;
+    font-weight: 800;
+    border: solid white 5px;
+}
+
+.input-name {
+    margin-bottom: 0px;
+    margin-bottom: 8px;
+}
+
+button {
+    height: 100px;
+    width: 230px;
+    background-color: black;
+    font-family: 'VT323';
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    margin: 5px;
+    border: solid white 5px;
+}
+
+.start {
+    height: 65px;
+    width: 85px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 90px;
+    color: white;
+    font-family: 'VT323', monospace;
+}
+
+.title-screen {
+    display: block;
+    font-size: 0px;
+}
+
+.introduction-screen {
+    display: none;
+}
+
+.story-opening {
+    display: none;
+}
+
+.button-set-one {
+    display: none;
+}
+
+.option-one-screen {
+    display: none;
+}
+
+.direction-screen {
+    display: none;
+}
+
+.option-two-screen {
+    display: none;
+}
+
+.option-one-end {
+    display: none;
+}
+
+.option-two-end {
+    display: none;
+}
+
+.sans-shop-screen {
+    display: none;
+}
+
+.inside-shop-screen {
+    display: none;
+}
+
+.button-set-two {
+    display: none;
+}
+
+.button-set-three {
+    display: none;
+}
+
+.give-seeds-screen {
+    display: none;
+    margin-top: 25%;
+}
+
+.run-screen-right {
+    display: none;
+}
+
+.left-screen {
+    display: none;
+}
+
+.button-set-four {
+    display: none;
+}
+
+.cave-entrance-screen-right {
+    display: none;
+}
+
+.explore-cave-screen-right {
+    display: none;
+}
+
+.cave-entrance-screen-left {
+    display: none;
+}
+
+.explore-cave-screen-left {
+    display: none;
+}
+
+.run-screen-left {
+    display: none;
+}
+
+.use-sword-screen {
+    display: none;
+}
+
+.sword-ending-screen {
+    display: none;
+}
